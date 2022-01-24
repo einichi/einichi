@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @einichi, an English/Japanese bi-lingual Infra/Security/Dev guy in Japan
+- 👀 I’m interested in general app dev and secure, automated code pipelines
+- 🌱 I’m currently learning Golang and Python, with some ML
+- 📫 You can contact me at ricky@burg.in
+- 🌐 Have a look at my short resume/CV at https://ricky.burg.in/
