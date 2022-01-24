@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @einichi, an English/Japanese bi-lingual Infra/Security/Dev guy in Japan
+- 👋 Hi, I’m Ricky, an English/Japanese bi-lingual Infra/Security/Dev guy in Japan
 - 👀 I’m interested in general app dev and secure, automated code pipelines
 - 🌱 I’m currently learning Golang and Python, with some ML
 - 📫 You can contact me at ricky@burg.in
